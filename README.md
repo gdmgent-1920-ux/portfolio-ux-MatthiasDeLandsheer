@@ -1,8 +1,8 @@
 # UX portfolio template 1920
 
-## Name:
+## Name: Matthias De Landsheer
 
-## Group:
+## Group: ADVa
 
 ## Getting Started
 
