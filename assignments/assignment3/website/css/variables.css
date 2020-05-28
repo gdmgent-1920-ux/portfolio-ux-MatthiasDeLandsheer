@@ -1,0 +1,30 @@
+/**
+ * Variables
+ */
+
+:root {
+  --color-grey: #f2f2f2;
+  --color-green: #89a28a;
+  --color-white: #FFFFFF;
+  --color-darkgrey: #8b8b8b8b;
+  --color-black: #000000;
+  --color-lichtgrey: #dddddd;
+  --color-red: #ff5757;
+  --color-orange: #D6791A;
+  --color-lichtgreen: #F3FFE2;
+  --color-lichtpink: #FFD1FD;
+  --color-pink: #FFEBEB;
+  --color-lichtlichtgreen: #EBFFEE;
+  --color-lichtyellow: #FFFEEB;
+  --color-lichtorange: #FFF3EB;
+  --color-lichtpurple: #F4EBFF;
+  --color-lichtblue: #EBF5FF;
+  --color-purple: #DDDFFF;
+
+
+
+
+  --text-font: 'Helvetica';
+  --text-font: 'Adidas Half Block 2016';
+
+}
